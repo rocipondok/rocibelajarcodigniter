@@ -4,33 +4,36 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.rtl.min.css" integrity="sha384-CfCrinSRH2IR6a4e6fy2q6ioOX7O6Mtm1L9vRvFZ1trBncWmMePhzvafv7oIcWiW" crossorigin="anonymous">
+        
     <title>Document</title>
 </head>
 <body>
-
 <div class="containier">
 <div class="row">
 <div class="col">
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">Navbar</a>
+        <a class="navbar-brand" href="/logo-alfi.png">Fotocopy Alpi</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Home</a>
+                <a class="nav-link active" aria-current="page" href="/">Beranda</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Features</a>
+                <a class="nav-link" href="/layanan">Layanan</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Pricing</a>
+                <a class="nav-link" href="#">Harga</a>
               </li>
-              <li class="nav-item">
+               <li class="nav-item">
+                <a class="nav-link" href="#">Portofolio</a>
+              </li>
+              <!-- <li class="nav-item">
                 <a class="nav-link disabled" aria-disabled="true">Disabled</a>
-              </li>
+              </li> -->
             </ul>
           </div>
         </div>
