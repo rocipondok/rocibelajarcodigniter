@@ -26,10 +26,10 @@
                 <a class="nav-link" href="/layanan">Layanan</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Harga</a>
+                <a class="nav-link" href="/harga">Harga</a>
               </li>
                <li class="nav-item">
-                <a class="nav-link" href="#">Portofolio</a>
+                <a class="nav-link" href="/portofolio">Portofolio</a>
               </li>
               <!-- <li class="nav-item">
                 <a class="nav-link disabled" aria-disabled="true">Disabled</a>
