@@ -3,7 +3,7 @@
 <div class="container">
     <div class="col">
         <div class="row">
-                       <h1> Ini Adalah Halaman Layanan</h1>
+                       <h3> Ini Adalah Halaman Layanan</h3>
         </div>
     </div>
 </div>
