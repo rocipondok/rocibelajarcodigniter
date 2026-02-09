@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.rtl.min.css" integrity="sha384-CfCrinSRH2IR6a4e6fy2q6ioOX7O6Mtm1L9vRvFZ1trBncWmMePhzvafv7oIcWiW" crossorigin="anonymous">
-    <link rel="icon" type="icon.ico" href="logo-alfi.png">
-    <title>Document</title>
+    <link rel="icon" type="icon.ico" href="/public/logo-alfi.png">
+    <title>Fotocopy Alfi || Official Website</title>
 </head>
 <body>
 <div class="containier">
@@ -13,24 +13,24 @@
 <div class="col">
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="container-fluid">
-      <img src="/logo-alfi.png" alt="" width="70" >
-      <a class="navbar-brand" href="/">Fotocopy Alpi</a>
+      <img src="/public/logo-alfi.png" alt="" width="70" >
+      <a class="navbar-brand" href="/public">Fotocopy Alfi</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="/">Beranda</a>
+                <a class="nav-link active" aria-current="page" href="/public">Beranda</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/layanan">Layanan</a>
+                <a class="nav-link" href="/public/layanan">Layanan</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/harga">Harga</a>
+                <a class="nav-link" href="/public/harga">Harga</a>
               </li>
                <li class="nav-item">
-                <a class="nav-link" href="/portofolio">Portofolio</a>
+                <a class="nav-link" href="/public/portofolio">Portofolio</a>
               </li>
               <!-- <li class="nav-item">
                 <a class="nav-link disabled" aria-disabled="true">Disabled</a>
